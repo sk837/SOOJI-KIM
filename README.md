@@ -1,1 +1,2 @@
-# SOOJI-KIM
+IDIS GDK Programming Guide
+============================
